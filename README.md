@@ -1,2 +1,5 @@
 # Analyze-International-Debt-Statistics
-Performed some analysis on The World Bank data that is related to countries national debt using SQL
+
+This project looks into global debt data using SQL queries. 
+
+By examining the World Bank's International Debt Statistics database, we aim to find out about trends in debt worldwide, what kinds of debts countries have, and how debt relates to their economies.
